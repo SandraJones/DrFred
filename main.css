@@ -10,5 +10,8 @@
 	font-size: 30px;
 	font-family: Gadget;
 }
+#nav-mobile li {
+	list-style-type: none;
+}
 
 
