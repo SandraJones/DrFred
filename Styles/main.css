@@ -1,8 +1,16 @@
 .bodyColor {
-	background-color: white;
+	background-color: transparent;
 	color: charcoal;
 	font-family: Gadget;
-	background-image: ""
+	
+}
+html { 
+	display: block; 
+	margin: 0 10px 10px 0; 
+	max-width: 100%;
+	background-image: #e8ecf0 url("DrFred/Styles/FredsAb.jpg") no-repeat 50% 350px;
+	background-color: transparent;
+	border: none;
 }
 .nav-wrapper {
 	width: 30%; 
@@ -39,4 +47,10 @@
 }
 h1 {
 	text-align: center;
+}
+.classOne {
+	padding: 2%;
+}
+.classTwo {
+	padding: 2%;
 }
