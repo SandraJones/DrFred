@@ -42,8 +42,13 @@ h1 {
 	text-align: center;
 }
 .imgOil {
-	width: 100%;
+	width: 40%;
+	margin-right: 8px;
 }
 .imgFred {
 	width: 50%;
+}
+.sail {
+	width: 40%;
+	margin-right: 0;
 }
