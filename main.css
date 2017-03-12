@@ -42,13 +42,32 @@ h1 {
 	text-align: center;
 }
 .imgOil {
-	width: 40%;
+	width: 100%;
+	height: 100%;
 	margin-right: 8px;
+	background: 100%;
 }
 .imgFred {
-	width: 50%;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10%;
 }
 .sail {
 	width: 40%;
 	margin-right: 0;
+}
+.aboutMeParagraphs {
+	width: 80%;
+	text-align: left;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.aboutMe {
+	text-align: center;
+}
+.aboutMeContainer {
+	border: 8px solid grey;
+	width: 100%;
+	height: 90%;
 }
