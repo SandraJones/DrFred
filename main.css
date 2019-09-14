@@ -1,6 +1,6 @@
 .bodyColor {
 	background-color: black;
-	text-decoration-color: yellow;
+	text-decoration-color: #efe395;;
 	font-family: Gadget;
 	background-image: ""
 }
@@ -15,22 +15,24 @@
 	list-style-type: none;
 }
 .articleOne {
-	color: yellow;
+	color: color: #efe395;;
 	font-size: 18px;
 	width: 40%;
-	border: 2px solid gray;
-	float: left;
-	background-color: gray;
-	margin-left: 5%;
+	border: 2px #2a333c;
+	float: right;
+	/*background-color: #2a333c;*/
+	margin-right: 5%;
+	padding: 5px;	
 }
 .articleTwo {
-	color: yellow;
+	color: color: #efe395;;
 	font-size: 18px;
 	width: 40%;
-	border: 2px solid gray;
+	border: 2px #2a333c;
 	float: right;
-	background-color: gray;
+	/*background-color: #2a333c;*/
 	margin-right: 5%;
+	padding: 5px;	
 }
 .footerClass {
 	margin-top: 10%;
@@ -38,12 +40,14 @@
 }
 h1 {
 	text-align: center;
+	color: #efe395;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 .imgOil {
-	width: 100%;
-	height: 100%;
-	margin-right: 8px;
-	background: 100%;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 .imgFred {
 	width: 80%;
@@ -56,26 +60,26 @@ h1 {
 	text-align: left;
 	margin-left: 10%;
 	margin-right: 10%;
+	padding-bottom: 20px;
+	font-size: 30px;
 }
 .aboutMe {
 	text-align: center;
 	background-color: black;
-	color: white;
+	color: #efe395;
 	text-decoration-color: white;
 }
 .aboutMeContainer {
-	border: 8px solid grey;
 	background-color: black;
-	text-decoration-color: yellow;
+	text-decoration-color: #efe395;;
 	color: white;
 	width: 100%;
 	height: 90%;
 }
 .galleryBody{
 	background-color: black;
-	text-decoration-color:yellow;
+	text-decoration-color: #efe395;;
 	width: 98%;
-	border: 8px solid grey;
 	height: 90%;
 	margin-left: 1%
 	margin-right: 1%;
@@ -87,15 +91,29 @@ h1 {
 }
 .subTitles {
 	text-align: center;
-	text-decoration-color: yellow;
+	text-decoration-color: #efe395;;
 	font-size: 20px;
-	width: 40%;
+	width: auto;
 	line-height: 30px;
+	max-width: 100%;
+	height: auto;
 }
 .sail {
 	align-self: center;
-	text-decoration-color: yellow;
+	text-decoration-color: #efe395;;
 	width: 40%;
 	margin-left: 10%;
 	margin-right: 10%;
+}
+a {
+	color: #efe395;
+}
+p {
+	color: #efe395;
+}
+article {
+	color: #efe395;
+}
+html {
+	background-color: black;
 }
