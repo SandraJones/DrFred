@@ -54,10 +54,7 @@ h1 {
 .classTwo {
 	padding: 2%;
 }
-.imgFred {
-	width: 50%;
-	center: auto 0;
-}
+
 div {
   font-size: 0;
 }
@@ -86,4 +83,10 @@ a:nth-of-type(2n) {
   a:nth-of-type(4n) {
     margin-right: 0;
   }
+}
+.imgFred {
+	max-width: 40%;
+	max-height: 40%;
+	width: 40%;
+	center: auto 0;
 }

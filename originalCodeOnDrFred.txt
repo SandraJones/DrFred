@@ -1,0 +1,17 @@
+<div>
+        <h1 class="subTitles">Sailboat</h1>
+        <a href="Styles/SmallSailboatBW.jpg">
+          <figure class="sail">
+            <img src="Styles/SmallSailboatBW.jpg" alt="sailboat in black and white">
+          </figure>
+        </a>
+      </div>
+      <div>
+        <!-- other anchors here ... -->
+        <h1 class="subTitles">Color Through Walls</h1>
+      	<a href="Styles/SmallFredsAb.jpg">
+          <figure class="sail">
+            <img src="Styles/SmallFredsAb.jpg" alt="multiColorAbstract">
+          </figure>
+        </a>
+      </div>
