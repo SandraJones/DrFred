@@ -19,9 +19,6 @@ html {
 	font-size: 30px;
 	font-family: Gadget;
 }
-#nav-mobile li {
-	list-style-type: none;
-}
 .articleOne {
 	color: yellow;
 	font-size: 18px;
@@ -58,13 +55,13 @@ div {
   font-size: 0;
 }
 
-a {
+nav a {
   font-size: 16px; 
   display: inline-block;
   margin-bottom: 8px;
   width: calc(50% - 4px);
   margin-right: 8px;
-  text-decoration: none;
+  
 }
 
 a:nth-of-type(2n) {
@@ -85,8 +82,8 @@ a:nth-of-type(2n) {
   }
 }
 .imgFred {
-	max-width: 40%;
-	max-height: 40%;
-	width: 40%;
-	center: auto 0;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
 }
