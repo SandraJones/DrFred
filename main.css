@@ -1,13 +1,13 @@
 .bodyColor {
+	font-family: 'Open Sans Condensed', sans-serif;
 	background-color: black;
 	text-decoration-color: #efe395;;
-	font-family: Gadget;
 	background-image: ""
 }
 .nav-wrapper {
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 30px;
-	font-family: Gadget;
+	font-family: 'Open Sans Condensed', sans-serif;
 	margin-left: 5%;
 
 }
@@ -39,6 +39,7 @@
 	float: left;
 }
 h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
 	text-align: center;
 	color: #efe395;
 	padding-top: 50px;
